@@ -1,5 +1,10 @@
 # BlockChainProject
 
+# CREATING A WINNING TICKET
+Created a Record class that took in senders,receiver and amount
+modified current Block to take in recorded data. Add Relevant User Inputs to the Streamlit Interface.
+Tested the PyChain Ledger by Storing Records
+
 # Validation & Proof of work
 
 ![image](https://user-images.githubusercontent.com/106267420/194678021-22be9af4-bfac-40fb-8ace-7e1a13fa193d.png)
